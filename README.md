@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/rohitag02/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohitag02/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rohitag02/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/rohitag02/Leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/rohitag02/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rohitag02/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/rohitag02/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rohitag02/Leetcode/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/rohitag02/Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/rohitag02/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/rohitag02/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rohitag02/Leetcode/tree/master/0733-flood-fill) |
