@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rohitag02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rohitag02/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rohitag02/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/rohitag02/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohitag02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/rohitag02/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Recursion
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohitag02/Leetcode/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/rohitag02/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rohitag02/Leetcode/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/rohitag02/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohitag02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Merge Sort
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/rohitag02/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rohitag02/Leetcode/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/rohitag02/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohitag02/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rohitag02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/rohitag02/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -177,11 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rohitag02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/rohitag02/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohitag02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rohitag02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/rohitag02/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search Tree
 |  |
 | ------- |
