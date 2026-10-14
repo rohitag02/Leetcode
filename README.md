@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohitag02/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohitag02/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rohitag02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/rohitag02/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rohitag02/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/rohitag02/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rohitag02/Leetcode/tree/master/0733-flood-fill) |
